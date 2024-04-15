@@ -6,6 +6,7 @@
 - [Problem Analyzed](problem-analyzed)
 - [Results/Findings](results/findings)
 - [Recommendations](recommendations)
+- [Dashboard](dashboard)
 
 
 ## Project Overview
@@ -44,3 +45,6 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions to maximize revenue for retail sales type.
 - Focus on expanding and promoting products in Category04.
 - Promotions must be scheduled in the month of February to increase profit.
+## Dashboard
+![Screenshot (21)](https://github.com/Shalini-K-S/Supermarket-Sales-Analysis/assets/163270221/c63ce08b-b02f-4e9f-92ec-2096e8604df4)
+
