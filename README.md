@@ -19,13 +19,13 @@ Sales Data: The primary dataset used for this analysis is the "Supermarket Sales
 ## Tools
 Microsoft Excel
 ## Procedure
-- Data combining,loading and inspection.
-- Handling missing values.
-- Data cleaning and formatting.
+- Data from sales and Catalogue sheets are combined on the basis of Product ID by using VLOOKUP.
+- Based on the cost and selling price with Quantity total Buying and selling price is calculated.
+- From the Date of sales Day,month,year are extracted by using DAY,TEXT,YEAR functions.
+- Data checked for any missing or inappropriate values.
+- Creation of Pivot Table.
 - Exploratory Data Analysis
-- Data visualization
-- Creation of dashboard
-
+- Data visualization using interactive Dashboard,
 ## Problem Analyzed 
 - What is the overall sales,profit and profit %?
 - Which products are top sellers?
@@ -38,6 +38,7 @@ The analysis results are summarized as follows:
 - The company's profit was 23% for the year 2022 and profit till the mid of 2023 is 22% from which we can say the profit is increasing rapidly.
 - Product31 is the best-performing product in terms of sales and profit.
 - Wholesale is the highly performed sales type.
+- Category03 is the highly profitable category type.
 
 ## Recommendations
 Based on the analysis, we recommend the following actions:
@@ -45,6 +46,7 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions to maximize revenue for retail sales type.
 - Focus on expanding and promoting products in Category04.
 - Promotions must be scheduled in the month of February to increase profit.
+- Category03 and Product31 must be stocked regulary to maintain an uninterrupted sales to the customers
 ## Dashboard
 ![Screenshot (21)](https://github.com/Shalini-K-S/Supermarket-Sales-Analysis/assets/163270221/c63ce08b-b02f-4e9f-92ec-2096e8604df4)
 
